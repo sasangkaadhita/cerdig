@@ -1,4 +1,4 @@
-### © Group 69, Kecerdasan Digital
+### © Group A69, Kecerdasan Digital
 
 This repository is created to complete a team project of Kecerdasan Digital course.
 <br/>
